@@ -1,0 +1,2 @@
+# Cyclistic-Bikeshare-case-study
+Cyclistic bikeshare analysis case study is part of Google Data Analytics Capstone - Complete a Case study project. The objective of this case study is to perform some real-world tasks of a junior data analyst.  Cyclistic’s historical trip dataset is provided by Motivate International Inc. under the [license](https://ride.divvybikes.com/data-license-agreement). Motivate International Inc. (“Motivate”) operates the City of Chicago’s (“City”) Divvy bicycle sharing service. The programming language used for analysis of the dataset is R.
